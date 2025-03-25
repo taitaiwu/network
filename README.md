@@ -8,5 +8,5 @@
 ---
 
 > ## 授權條款    
-> 本筆記內容採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權，您可以自由分享及修改。但請注意此筆記僅供學習交流使用，並非課堂正式教材。
-> ![CC BY-NC-SA 4.0](https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-nc-nd-300x105.png)
+> 本筆記內容採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權，您可以自由分享及修改。但請注意此筆記僅供學習交流使用，並非課堂正式教材。  
+ ![CC BY-NC-SA 4.0](https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-nc-nd-300x105.png)
