@@ -56,7 +56,6 @@
 * 環形網路(Ring) : 把直線型兩端接起來
     * 優 : 廣播容易，不會產生碰撞，適合Token Ring
     * 缺 : 安全性低、斷一點全掛、擴展性差  
-    <br>
     *  **雙環型(Aual-ring)** : 避免損壞，打造出一個高可用(High-Availability,HA)的線路。環形雖然方便，但由於造價昂貴，以致當時LAN多用匯流排
 ![環形線路](note_photos/chapter01/環形網路.svg)
 * 樹狀網路(Tree) : 將多個star連接再一起，某點到某點只有一條路徑(亦可定義為loop-free 無迴圈)

@@ -4,6 +4,7 @@
 2. 修課時間 : 112學年度第二學期
 3. 上課用書 : [網路概論與實務(第七版)](https://www.flag.com.tw/books/product_s/F7520B)
 4. 主要內容 : 課堂及課後整理筆記
+5. 原始檔案 : [Google docs](https://docs.google.com/document/d/1IPXnFyZRJDB2dhhgwWyxzWLp9zBdMIzLt7Vng7Zs7MQ/edit?usp=sharing)
 
 ---
 
