@@ -6,8 +6,4 @@
 4. 主要內容 : 課堂及課後整理筆記
 5. 原始檔案 : [Google docs](https://docs.google.com/document/d/1IPXnFyZRJDB2dhhgwWyxzWLp9zBdMIzLt7Vng7Zs7MQ/edit?usp=sharing)
 
----
-
-> ## 授權條款    
-> 本筆記內容採用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hant) 授權，您可以自由分享及修改。但請注意此筆記僅供學習交流使用，並非課堂正式教材。  
- ![CC BY-NC-SA 4.0](https://tw.creativecommons.net/wp-content/uploads/sites/20/2020/11/by-nc-nd-300x105.png)
+>建議不要使用暗色模式，圖片內容可能會和背景融合
