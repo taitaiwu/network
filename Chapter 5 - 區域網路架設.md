@@ -28,7 +28,7 @@
     * 無線區域網路 WLAN : 校園網路、工廠環境等無線環境應用
     * 無線個人網路 WPAN : 居家控制等短距離應用
 * 無線網路系統
-    * LoRa (Long Range) : 長距離的傳輸(速度慢,距離遠)
+    * LoRa (Long Range) : 長距離的傳輸(速度慢,距離遠)  
     ![LoRa](https://devopedia.org/images/article/91/5386.1599139021.png)
     * 802.11 
     ![Wi-Fi](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Wi-fi_alliance_logo.png/1280px-Wi-fi_alliance_logo.png)
